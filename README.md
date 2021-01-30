@@ -1,9 +1,9 @@
 ### I'm dxlce and currently in my first year of Computer Science at Carleton University.
 
-## Stuff in progress
+## Stuff I'm doing right now!
 - Currently learning algorithms and data structures in C/C++
-- Learning C++ while I'm at it (see above)
-- Might get into creating a visual novel using ren'py
+- Learning C++ 
+- Creating a game for a Hackathon!
 - Getting lost while driving 
 
 ### Tools and languages I use
