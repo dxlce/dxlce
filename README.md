@@ -1,4 +1,4 @@
-### I'm dxlce. I really like leaf juice and hate bean water.
+### I'm dxlce and currently in my first year of Computer Science at Carleton University.
 
 ## Professional rice burner and meme dealer. 
 - Currently learning algorithms and data structures in C/C++
