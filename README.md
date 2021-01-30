@@ -1,6 +1,6 @@
 ### I'm dxlce and currently in my first year of Computer Science at Carleton University.
 
-## Professional rice burner and meme dealer. 
+## Stuff in progress
 - Currently learning algorithms and data structures in C/C++
 - Learning C++ while I'm at it (see above)
 - Might get into creating a visual novel using ren'py
